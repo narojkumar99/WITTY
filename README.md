@@ -1,5 +1,5 @@
 # WITTY
-An innovative E-commerce android app Prototype based on Firebase, made for IndiaHacks 2016 Hackathon. Watch the video demo of the application here: 
+An innovative E-commerce android app Prototype based on Firebase, made for IndiaHack 2016 Hackathon. Watch the video demo of the application here: 
 
 [![vido_thumbnail](https://img1.ibxk.com.br/2017/08/29/29125300374600.gif)](https://www.youtube.com/watch?v=ih6YC6pvrEc)
 
